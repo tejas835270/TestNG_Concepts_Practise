@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="224" started-at="2021-05-20T21:16:00Z" finished-at="2021-05-20T21:16:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="224" started-at="2021-05-20T21:16:00Z" finished-at="2021-05-20T21:16:00Z">
+      <class name="Tests.test_mcx">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Tests.test_mcx@6ad5c04e]" name="setup" is-config="true" duration-ms="16850" started-at="2021-05-21T02:45:43Z" finished-at="2021-05-21T02:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="init_class()[pri:0, instance:Tests.test_mcx@6ad5c04e]" name="init_class" is-config="true" duration-ms="4" started-at="2021-05-21T02:46:00Z" finished-at="2021-05-21T02:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_class -->
+        <test-method status="PASS" signature="checkhomepage()[pri:0, instance:Tests.test_mcx@6ad5c04e]" name="checkhomepage" duration-ms="197" started-at="2021-05-21T02:46:00Z" finished-at="2021-05-21T02:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkhomepage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Tests.test_mcx@6ad5c04e]" name="teardown" is-config="true" duration-ms="668" started-at="2021-05-21T02:46:00Z" finished-at="2021-05-21T02:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.test_mcx -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
